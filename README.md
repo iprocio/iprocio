@@ -4,7 +4,7 @@
 - 😄 Pronouns: She/Her
 - 📣 Languages: English & Spanish
 - 👀 I’m interested in digital transformation
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning FullStak Web Development
 - 💞️ I’m looking to collaborate on innovative and disruptive projects
 - 🎯 Focused on: my business projects
 - ⚡ Fun fact: ... I'm part of 0.1% of the world's population with heterochromia 👁️
